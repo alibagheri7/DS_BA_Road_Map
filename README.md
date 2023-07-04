@@ -10,3 +10,7 @@ This is a roadmap of resources I have used or intend to use in my Data Science j
 
 ## Machine Learning
 [XGBoost](https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning)
+
+
+## Machine Learning Books
+[Introduction to Machine Learning with Python by Andreas C. Müller, Sarah Guido](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
