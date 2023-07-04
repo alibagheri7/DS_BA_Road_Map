@@ -11,9 +11,9 @@ This is a roadmap of resources I have used or intend to use in my Data Science j
 ## Machine Learning Packages
 [XGBoost](https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning)
 
-[CatBoost]
-
 [LightGBM]
+
+[CatBoost]
 
 
 ## Machine Learning Books
