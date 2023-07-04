@@ -9,4 +9,4 @@ This is a roadmap of resources I have used or intend to use in my Data Science j
 [SQL for Business Analysts](https://app.datacamp.com/learn/skill-tracks/sql-for-business-analysts)
 
 ## Machine Learning
-[XGBoost](
+[XGBoost](https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning)
